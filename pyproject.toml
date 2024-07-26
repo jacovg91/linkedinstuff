@@ -1,0 +1,4 @@
+[tool.ruff]
+line-length = 79
+fix = true
+ignore = ["F401"]

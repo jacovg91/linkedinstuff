@@ -36,4 +36,5 @@ def evolve_schema_with_column(
     if not column_exists:
         spark.sql(f"""
         ALTER TABLE {catalog}.{schema}.{table} 
-        ADD COLUMN {new_column} {new_column_type} AFTER {after_column}""")
+        ADD COLUMN {new_column} {new_column_type} AFTER {after_column}
+        """)

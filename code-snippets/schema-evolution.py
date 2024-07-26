@@ -10,8 +10,8 @@ def evolve_schema_with_column(
     after_column: str,
 ) -> None:
     """
-    Evolves a schema of a table by adding a new column
-    in the right order. 
+    Evolves the schema of a Delta table by adding a new column
+    in the right order.
 
     Args:
         catalog (str): The catalog of the table.

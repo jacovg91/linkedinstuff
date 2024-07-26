@@ -1,5 +1,4 @@
 from pyspark.sql import SparkSession
-from typing import str
 
 
 def evolve_schema_with_column(

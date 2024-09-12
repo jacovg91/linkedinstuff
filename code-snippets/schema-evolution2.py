@@ -37,7 +37,7 @@ def return_schema_evolution(full_table_names: List[str]) -> DataFrame:
         WHERE operation = 'DROP COLUMNS'
     )
     SELECT table_name AS table_name 
-    ,      column AS column
+    ,      column AS column_name
     ,      IF(operation = 'ADD COLUMNS', 'ADDED', 'REMOVED') AS added_or_removed
     ,      timestamp AS schema_evolution_date_time
     ,      version AS changed_by_delta_version

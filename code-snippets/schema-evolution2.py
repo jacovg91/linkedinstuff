@@ -15,10 +15,9 @@ def return_schema_evolution(full_table_names: List[str]) -> DataFrame:
     spark = SparkSession.getActiveSession()
     sql_to_run = """
     WITH CTE_HIST
-    AS
-    (
-         """ + ' UNION ALL '.join([f"""SELECT '{table}' AS table_name,
-          * FROM (DESCRIBE HISTORY {table})""" for table in full_table_names]) + """
+    AS (
+        """ + ' UNION ALL '.join([f"""SELECT '{table}' AS table_name,
+        * FROM (DESCRIBE HISTORY {table})""" for table in full_table_names]) + """
     ),
     CTE_STRUCT
     AS (

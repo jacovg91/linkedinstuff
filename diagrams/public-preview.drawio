@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="nL4MuwHkAZj3mGPWigE0" name="Page-1">
+        <mxGraphModel dx="1723" dy="814" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;font style=&quot;font-size: 33px;&quot; face=&quot;Fictional Friend DEMO&quot; color=&quot;#000000&quot;&gt;Databricks Public Preview&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 33px;&quot; face=&quot;Fictional Friend DEMO&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;Azure / Fabric Public Preview&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="206" y="232" width="377" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2024/01/Databricks-Symbol.png;" vertex="1" parent="1">
+                    <mxGeometry x="563" y="226.00000000000003" width="88" height="49.58" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/microsoft-fabric/Fabric-icon-17x17.svg;" vertex="1" parent="1">
+                    <mxGeometry x="591" y="341" width="48" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/janvee-not-equal-02-1606390170.png;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="368.59" y="285" width="51.81" height="64" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/janvee-not-equal-02-1606390170.png;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="423" y="285" width="51.81" height="64" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/janvee-not-equal-02-1606390170.png;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="316.78" y="285" width="51.81" height="64" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
